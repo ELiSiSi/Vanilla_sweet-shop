@@ -24,6 +24,13 @@ body {
 
 @media (max-width: 500px) {
 
+body {
+
+    background-position: 0px;
+
+  background-size: auto;
+
+}
 }
 .container {
   width: 90%;
