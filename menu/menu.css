@@ -112,11 +112,7 @@ body {
 
 .menu .container {
   margin-top: 50px;
-  display: grid;
 
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-
-  gap: 0px;
 }
 
 .container {
